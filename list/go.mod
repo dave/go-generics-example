@@ -1,3 +1,3 @@
-module github.com/mattn/go-generics-example/list
+module github.com/dave/go-generics-example/list
 
 go 1.18

@@ -18,7 +18,7 @@ Go 1.18 or later
 - [genkami/dogs](https://github.com/genkami/dogs) Dogs is a library that provides some useful types and functions borrowed from functional languages.
 - [makiuchi-d/tuple](https://github.com/makiuchi-d/tuple) Definition of n-tuple structs using type parameters.
 - [samber/lo](https://github.com/samber/lo) 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [mattn/go-result](https://github.com/mattn/go-result) Something like unwrap in Rust.
+- [mattn/go-result](https://github.com/dave/go-result) Something like unwrap in Rust.
 - [makiuchi-d/linq](https://github.com/makiuchi-d/linq) LINQ for Go with type parameters.
 
 ## Advertise

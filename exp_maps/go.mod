@@ -1,4 +1,4 @@
-module github.com/mattn/go-generics-example/exp_maps
+module github.com/dave/go-generics-example/exp_maps
 
 go 1.18
 
